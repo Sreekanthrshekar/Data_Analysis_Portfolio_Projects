@@ -1,0 +1,19 @@
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+env/
+
+# Data/Logs
+*.csv
+*.log
+*.data
+
+# IDE-specific files
+.vscode/
+.idea/
